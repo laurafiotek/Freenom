@@ -1,0 +1,224 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	font-weight: 300;
+}
+.main_header .logo img {
+	width: 41%;
+	height: auto;
+	letter-spacing: 0.05em;
+}
+.main_header .logo {
+	left: 15px;
+	top: 10px;
+	position: absolute;
+	z-index: 1000;
+}
+/*a.dropdown-toggle:link {color:#red;}
+a.dropdown-toggle:visited {color:#666;}
+a.dropdown-toggle:hover {color:#green;} CONSULTAR*/
+
+.form_center {
+	background-position: center top;
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	height: 30rem;
+}
+#border_maldito {
+	background: rgba(255, 255, 255, 0.5) none repeat scroll 0 0;
+	height: 8rem;
+	padding: 4.2rem;
+	width: 65rem;
+	border-radius: 4px;
+	margin-right: 16rem;
+	margin-top: 11rem;
+}
+a:link, a:visited, a:active {
+	color: #666;
+	text-decoration: none;
+}
+.container-fluid {
+	float: right;
+	color: #666;
+	margin-top: 1rem;
+}
+.form-control {
+	height: 59px;
+	padding: 10px;
+}
+.input-group .form-control:last-child {
+	border-radius: 4px;
+}
+.input-group {
+	position: absolute;
+	width: 50%;
+	left: 24rem;
+	top: 19.3rem;
+}
+.input-group-btn {
+	background: url("http://www.freenom.com/images.v2/bgInput.png") no-repeat center center;
+	background-size: 100%;
+	border-radius: 50%;
+	font-size: 1.5rem;
+	text-align: center;
+	height: 210px;
+	width: 210px;
+	font-weight: 400;
+	padding: 76px 40px;
+	cursor: pointer;
+	font-size: 19px;
+	right: -30px;
+	margin-top: -30px;
+	position: absolute;
+	top: 15rem;
+	right: 25rem;
+	z-index: 100;
+}
+.input-group-btn a:hover {
+	color: white;
+}
+.btn_disponible {
+	line-height: 28px;
+	color: #FFF;
+}
+a.btn_disponible {
+	text-decoration: none;
+}
+.primera_pagina {
+	width: 100%;
+	background-image: url("http://extudia.com/wp-content/uploads/2013/japon/Tokio.jpg");
+	min-height: 500px; 
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.padding_margin {
+	padding-top: 3rem;
+}
+.navbar-default {
+	border-color: white;
+	background-color: transparent;
+	height: 5rem;
+}
+.freenom_world {
+	margin-top: 15rem;
+	background: #c9eaf7;
+}
+.new {
+	height: 9rem;
+	position: absolute;
+	margin-top: -6rem;
+}
+.logo_freenom {
+	height: 3.5rem;
+	margin-left: 11rem;
+	margin-top: 0rem;
+}
+h2 {
+	text-align: right;
+    float: right;
+    width: 100%;
+    font-weight: 600;
+    color: #00adeb;
+    font-size: 32px;
+    line-height: 36px;
+    margin-top: 10px;
+}
+.segunda_casilla {
+	border-left: 1px solid #9fbad1;
+    border-right: 1px solid #9fbad1;
+    text-align: center;
+    padding-top: 0rem;
+    height: 190px;
+}
+p {
+	color: #232c5f;
+	font-weight: 600;
+	line-height: 24px;
+	font-size: 20px;
+}
+.number {
+	background: #fff url(../images.v2/bg-input.png) repeat scroll 0 0 / cover;
+	color: #1c1c1c;
+	display: block;
+	font-size: 36px;
+	font-weight: 400;
+	height: 50px;
+	letter-spacing: 3px;
+	line-height: 50px;
+	margin: 10px auto;
+	text-align: center;
+	max-width: 250px;
+}
+.video_tutorial {
+	padding-top: 0rem;
+}
+.mini_footer {
+	float: left;
+	padding: 10px;
+	color: #232c5f;
+	font-weight: 600;
+	margin-top: 20px;
+	padding-right: 15px;
+	padding-left: 15px;
+	line-height: 22px;
+	color: rgba(0,0,0,0.5);
+	font-size: 13px;
+}
+h3 {
+	color: #00adeb;
+	font-weight: 300;
+	font-size: 18px;
+	line-height: 1.1;
+	margin-bottom: 10px;
+}
+.nombre_mundo {
+	margin-top: 4.3rem;
+    margin-left: 1.6rem;
+}
+.list-inline {
+	margin-left: 34rem;
+	color: #232c5f;
+}
+a.a_foot:link {
+    color: #232c5f;
+    text-decoration: underline;
+}
+a.a_foot:visited {
+    color: #232c5f;
+    text-decoration: underline;
+}
+a.a_foot:hover {
+    color: #232c5f;
+    text-decoration: underline;
+}
+.fa {
+	margin-left: 0.5rem;
+}
+.list-unstyled {
+	padding-left: 5rem;
+	padding-top: 2rem;
+}
+.columnas_footer {
+	width: 19%;
+}
+.columnas_footer a:link a:visited a:active {
+	color: #666;
+	font-weight: 100;
+	text-decoration: none;
+}
+.main_footer {
+	font-size: 1.2rem;
+	margin-left: 42rem;
+	margin-top: 1rem;
+	font-weight: 100;
+}
+hr {
+	width: 100%;
+	color: #eceeef;
+}
+.form-control {
+    border: 0;
+}
